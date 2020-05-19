@@ -1,3 +1,4 @@
-# Peppuz
+## links to CV 
 
-[*Curriculum Vitae*](re.peppuz.com/CV.pdf)
+[*Italinao*](./CV.it.pdf)
+[*English*](./CV.en.pdf)
