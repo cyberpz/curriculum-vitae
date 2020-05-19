@@ -2,7 +2,8 @@
 
 Let me introduce myself, I'm _Giuseppe Vitale_, born in south of Italy in 1997, currently studying _Computer Science_ in Milan.
 
-## Education
+## Check my CV [**Here**](job.peppuz.com/CV.en.pdf)
+## Controlla il CV [**Qui**](job.peppuz.com/CV.it.pdf)
 
 ## Experiences
 
@@ -17,11 +18,3 @@ OrariSTP is a Progressive Web Application to get timelines, bus stops, and ticke
 Built in PHP and MySQL, initially we copied by hand all the timelines, after some months we switched to GTFS standard.
 
 Links to stores: [AppStore](https://apps.apple.com/it/app/orari-stp/id916259912) and [PlayStore](https://play.google.com/store/apps/details?id=svd.stp.manuel.oraristp&hl=en_US).
-
-
-
-TODO: 
-* Motivations and Interests 
-* Core Skills 
-* Softskills
-* Contacts
