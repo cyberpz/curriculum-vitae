@@ -3,7 +3,7 @@
 Let me introduce myself, I'm _Giuseppe Vitale_, born in south of Italy in 1997, currently studying _Computer Science_ in Milan.
 
 ## Check my CV [**Here**](job.peppuz.com/CV.en.pdf)
-## Controlla il CV [**Qui**](job.peppuz.com/CV.it.pdf)
+## Controlla il CV [**Qui**](http://job.peppuz.com/CV.it.pdf)
 
 ## Experiences
 
